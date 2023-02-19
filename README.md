@@ -2,7 +2,8 @@
 
 ## Table of Contents
 
-- [Description](#description) \*[Installation](#installation)
+- [Description](#description) 
+- [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
 - [Questions](#questions)
@@ -26,22 +27,26 @@ This project is a single-page application that functions as a text editor, allow
   `npm install`
 
 - To build and run the application:
+ 
   `npm run start`
 
 ## Usage
 
 The following video demonstrates the application being used:
-![til]()
+![til](https://github.com/VascoMiguens/PWA-Text-Editor/blob/master/assets/pwa-jate.gif?raw=true)
 
 ## License
 
-        This project is licensed under the MIT License license.
-        To know more about this license visit:
-            * https://choosealicense.com/licenses/mit/
+This project is licensed under the MIT License license.
+
+To know more about this license visit:
+
+  
+     https://choosealicense.com/licenses/mit/
 
 ## Questions
 
 Any questions about this project refer to:
 
-- [Github](<VascoMiguens(https://github.com/VascoMiguens)>)
-- Email: v_miguens@hotmail.com
+* [Github](https://github.com/VascoMiguens)
+* Email: v_miguens@hotmail.com
